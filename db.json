@@ -1,13 +1,28 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    },
+    {
+      "id": 5,
+      "title": "Erick Zacarias da Silva"
+    },
+    {
+      "id": 4,
+      "title": "Gabriel Loureiro"
+    },
+    {
+      "id": 6,
+      "title": "André",
+      "body": "Dev"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
